@@ -56,7 +56,7 @@
   --header-secondary: var(--text-muted);
 
   /*  Text Color  */
-  --text-normal: #282E45;
+  --text-normal: #b1bae6;
   --text-muted: #565f89;
   --interactive-normal: #5f647e;
   --interactive-hover: #a2a6c2;
@@ -64,7 +64,7 @@
   --interactive-muted: #55576b;
 
   /* Background Color */
-  --background-primary: #1a1b26;
+  --background-primary: #282E45;
   --background-secondary: #171722;
   --background-secondary-alt: #13131a;
   --background-tertiary: #16161e;
